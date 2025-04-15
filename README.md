@@ -27,3 +27,6 @@ This game is developed using Python libraries and AI tools 🤖, making it an im
 1. Clone the repository:
    ```bash
    git clone https://github.com/iamkarthik2004/CATCH-MASTER_Asthra.git
+2. cd CATCH-MASTER_Asthra
+3. pip install -r requirements.txt
+4. python catch_master.py
