@@ -1,7 +1,5 @@
 # CATCH MASTER
 
-# CATCH MASTER
-
 ## Overview
 **CATCH MASTER** is an interactive game developed as part of the Asthra 9.0 event. The game features an exciting ball-catching experience controlled using hand gestures. The objective of the game is to catch falling balls within a specified time frame, using simple hand movements detected by a camera.
 
